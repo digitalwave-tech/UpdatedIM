@@ -1,0 +1,526 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UpdatedInvocie\\InvoiceMgmt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|c:\\updatedinvocie\\invoicemgmt\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\webservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:webservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\customerinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\customerinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\itemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\itemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\css\\invoice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:css\\invoice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\invoicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\invoicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\invoicecreation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:invoicecreation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\pdftemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\pdftemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\invoicetemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:invoicetemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\errorlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\viewinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\viewinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\customercreation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:customercreation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\css\\customer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:css\\customer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\migrations\\202408041040366_adddefaultdatetimeinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:migrations\\202408041040366_adddefaultdatetimeinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\navbar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:navbar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\javascript\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:javascript\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\migrations\\202408031036406_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:migrations\\202408031036406_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|C:\\UpdatedInvocie\\InvoiceMgmt\\migrations\\202408030852596_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{244CA3EE-1C26-4817-8BF6-58936D97E302}|InvoiceMgmt.csproj|solutionrelative:migrations\\202408030852596_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Dashboard.aspx",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Dashboard.aspx",
+              "RelativeToolTip": "Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T11:00:35.171Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerInvoice.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\CustomerInvoice.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerInvoice.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\CustomerInvoice.cs",
+              "RelativeToolTip": "Models\\CustomerInvoice.cs",
+              "ViewState": "AQIAAAUAAAAAZ2ZmZmb0vwkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:54:45.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PDFTemplate.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\PDFTemplate.cs",
+              "RelativeDocumentMoniker": "Models\\PDFTemplate.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\PDFTemplate.cs",
+              "RelativeToolTip": "Models\\PDFTemplate.cs",
+              "ViewState": "AQIAACoAAADgZmZmZqY1wDIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:28:47.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvoiceTemplate.html",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\InvoiceTemplate.html",
+              "RelativeDocumentMoniker": "InvoiceTemplate.html",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\InvoiceTemplate.html",
+              "RelativeToolTip": "InvoiceTemplate.html",
+              "ViewState": "AQIAAEIAAAAAWmZmZmYEwDkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-04T17:04:59.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceCreation.aspx",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\InvoiceCreation.aspx",
+              "RelativeDocumentMoniker": "InvoiceCreation.aspx",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\InvoiceCreation.aspx",
+              "RelativeToolTip": "InvoiceCreation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T17:14:58.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T11:36:24.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:42:28.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebService.asmx.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\WebService.asmx.cs",
+              "RelativeDocumentMoniker": "WebService.asmx.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\WebService.asmx.cs",
+              "RelativeToolTip": "WebService.asmx.cs",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAmwHEBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:40:05.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorLog.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\ErrorLog.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorLog.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\ErrorLog.cs",
+              "RelativeToolTip": "Models\\ErrorLog.cs",
+              "ViewState": "AQIAAAUAAABgAAAAAAAhwAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:23:49.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Customer.css",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\css\\Customer.css",
+              "RelativeDocumentMoniker": "css\\Customer.css",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\css\\Customer.css",
+              "RelativeToolTip": "css\\Customer.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T09:37:33.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAABkAAAAAz8zMzMwRwB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:13:12.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Dashboard.aspx.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Dashboard.aspx.cs",
+              "RelativeToolTip": "Dashboard.aspx.cs",
+              "ViewState": "AQIAAAgAAADgzczMzMwXwA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:22:02.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AQIAAAcAAADQzMzMzEw8wBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:23:08.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemDetails.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\ItemDetails.cs",
+              "RelativeDocumentMoniker": "Models\\ItemDetails.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\ItemDetails.cs",
+              "RelativeToolTip": "Models\\ItemDetails.cs",
+              "ViewState": "AQIAAAkAAAAAxczMzMzsvxIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:59:14.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceRequest.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\InvoiceRequest.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceRequest.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\InvoiceRequest.cs",
+              "RelativeToolTip": "Models\\InvoiceRequest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:04:28.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerCreation.aspx",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\CustomerCreation.aspx",
+              "RelativeDocumentMoniker": "CustomerCreation.aspx",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\CustomerCreation.aspx",
+              "RelativeToolTip": "CustomerCreation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-04T09:35:11.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invoice.css",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\css\\Invoice.css",
+              "RelativeDocumentMoniker": "css\\Invoice.css",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\css\\Invoice.css",
+              "RelativeToolTip": "css\\Invoice.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-04T11:05:49.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAgAAAAwZ2ZmZsY6wAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:33:27.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "202408041040366_AddDefaultDatetimeInvoice.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Migrations\\202408041040366_AddDefaultDatetimeInvoice.cs",
+              "RelativeDocumentMoniker": "Migrations\\202408041040366_AddDefaultDatetimeInvoice.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Migrations\\202408041040366_AddDefaultDatetimeInvoice.cs",
+              "RelativeToolTip": "Migrations\\202408041040366_AddDefaultDatetimeInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:40:45.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NavBar.ascx",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\NavBar.ascx",
+              "RelativeDocumentMoniker": "NavBar.ascx",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\NavBar.ascx",
+              "RelativeToolTip": "NavBar.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-08-03T13:34:36.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dashboard.css",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\css\\dashboard.css",
+              "RelativeDocumentMoniker": "css\\dashboard.css",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\css\\dashboard.css",
+              "RelativeToolTip": "css\\dashboard.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-03T16:32:54.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Models\\UserAccount.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\UserAccount.cs",
+              "RelativeToolTip": "Models\\UserAccount.cs",
+              "ViewState": "AQIAAA4AAACgmZmZmRk5wBIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:43:03.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Login.aspx",
+              "RelativeDocumentMoniker": "Login.aspx",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Login.aspx",
+              "RelativeToolTip": "Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-03T07:33:52.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "navbar.js",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\javascript\\navbar.js",
+              "RelativeDocumentMoniker": "javascript\\navbar.js",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\javascript\\navbar.js",
+              "RelativeToolTip": "javascript\\navbar.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T14:01:37.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewInvoice.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\ViewInvoice.cs",
+              "RelativeDocumentMoniker": "Models\\ViewInvoice.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Models\\ViewInvoice.cs",
+              "RelativeToolTip": "Models\\ViewInvoice.cs",
+              "ViewState": "AQIAAAUAAABQMzMzM5MwwAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:11:40.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-03T08:21:02.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\css\\login.css",
+              "RelativeDocumentMoniker": "css\\login.css",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\css\\login.css",
+              "RelativeToolTip": "css\\login.css",
+              "ViewState": "AQIAACAAAACAx8zMzMwnwDEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-03T07:48:40.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\script.js",
+              "RelativeDocumentMoniker": "script.js",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\script.js",
+              "RelativeToolTip": "script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-03T08:03:48.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "navbar.css",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\css\\navbar.css",
+              "RelativeDocumentMoniker": "css\\navbar.css",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\css\\navbar.css",
+              "RelativeToolTip": "css\\navbar.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-03T13:40:04.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "202408031036406_MigrationName.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Migrations\\202408031036406_MigrationName.cs",
+              "RelativeDocumentMoniker": "Migrations\\202408031036406_MigrationName.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Migrations\\202408031036406_MigrationName.cs",
+              "RelativeToolTip": "Migrations\\202408031036406_MigrationName.cs",
+              "ViewState": "AQIAAAUAAADgzczMzMwnwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:36:47.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "202408030852596_InitialCreate.cs",
+              "DocumentMoniker": "C:\\UpdatedInvocie\\InvoiceMgmt\\Migrations\\202408030852596_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\202408030852596_InitialCreate.cs",
+              "ToolTip": "C:\\UpdatedInvocie\\InvoiceMgmt\\Migrations\\202408030852596_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\202408030852596_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:16:47.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

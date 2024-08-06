@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+            .table, .table th, .table td {
+                border: 1px solid black;
+            }
+
+                .table th, .table td {
+                    padding: 8px;
+                    text-align: left;
+                }
+
+        .bg-light {
+            background-color: #f8f9fa;
+        }
+
+        .bg-dark {
+            background-color: #2d353c;
+            color: white;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="col-md-12">
+            <div class="bg-white px-15">
+                <div style="padding-top:35px">
+                    <div class="text-inverse f-w-300" style="color:black"></div>
+                    <div style="font-size: 8px"></div>
+                </div>
+                <div class="d-flex justify-content-between mt-5 bg-light px-20" style="width: 548px; margin: 0 -20px;color:black">
+                    <div>
+                        <small>TO</small>
+                        <address class="m-t-5 m-b-5"></address>
+                    </div>
+                    <div>
+                        <small>Invoice No: </small><br><br>
+                        <small>Date: </small>
+                    </div>
+                </div>
+                <div style="width: 548px; margin-top: 40px; margin-left: -20px">
+                    <div class="table-responsive">
+                        <table class="table">
+                            <thead style="text-align:left; justify-content:space-between">
+                                <tr>
+                                    <th class="text-center" style="color:black">Description</th>
+                                    <th class="text-center" style="color:black" width="10%">Quantity</th>
+                                    <th class="text-center" style="color:black" width="10%">Rate</th>
+                                    <th class="text-right" style="color:black" width="20%">Amount</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                    <div class="bg-light" style="color:black">
+                        <br><br>
+                        <div class="d-flex" style="display:table-cell;padding: -7px; justify-content:space-evenly">
+                            <div style="margin-left: 310px">
+                                <small>SUB TOTAL</small>
+                            </div>
+                            <div style="padding-left:23px">
+                                <span>₹ </span>
+                            </div>
+                        </div>
+                        <div class="d-flex" style="display:table-cell;padding: -5px;justify-content:space-evenly;">
+                            <div style="margin-left:310px">
+                                <small>SGST %</small>
+                            </div>
+                            <div style="padding-left:23px">
+                                <span>₹ </span>
+                            </div>
+                        </div>
+                        <div class="d-flex" style="display:table-cell; padding: -5px; justify-content:space-evenly">
+                            <div style="margin-left:310px">
+                                <small>CGST %</small>
+                            </div>
+                            <div style="padding-left:23px">
+                                <span>₹ </span>
+                            </div>
+                        </div>
+                        <br><br>
+                        <div class="bg-dark" style="width: 197px;height:50px;margin-left:350px">
+                            <p style="text-align:left;padding-left:3px;padding-top:3px">TOTAL</p>
+                            <p style="font-size:17px;font-weight:normal;margin-left:15px;color:white">₹ </p>
+                        </div>
+                    </div>
+                </div>
+                <div style="margin-top:20px">
+                    <p class="text-center f-w-600"></p>
+                    <p class="d-flex justify-content-center gap-5">
+                    <p><i class="fa fa-fw fa-sm fa-envelope"></i></p>
+                    <p><i class="fa fa-fw fa-sm fa-phone-volume"></i></p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
